@@ -1,5 +1,4 @@
 # aquapackskills
----
 # Strong
 - Java proficient (FRC + 216)
 - Worked with Python (some OpenCV but mostly recreationally - have been doing CV for another project)
